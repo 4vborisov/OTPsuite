@@ -1,0 +1,11 @@
+# One-Time Notepad Generator Requirements
+
+# For running the application:
+# - Python 3.6 or higher (only standard library modules used)
+
+# For running tests:
+# - No additional requirements (uses only standard library modules)
+
+# For randomness analysis:
+# - Python 3.6 or higher (only standard library modules used)
+# - randomness_analyzer.py for statistical analysis of generated files
